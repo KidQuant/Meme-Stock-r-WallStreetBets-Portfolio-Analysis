@@ -1,1 +1,1 @@
-# Meme-Stock|rWallStreetBets Portfolio Analysis
+# Meme-Stock & r/WallStreetBets Portfolio Analysis
