@@ -15,9 +15,9 @@ The data for this project primary originates from Yahoo Finance, which provides 
 
 ## Enviroment and Tools
 
-The following are the modules we will use in this notebook. However, the program relies on many more dependencies than what is shown here. Please be sure to set up a virtual enviroment and install the ![requirements.txt](https://github.com/KidQuant/Meme-Stock-r-WallStreetBets-Portfolio-Analysis/blob/main/requirements.txt) file before running this programming on your own.
+The following are the modules we will use in this notebook. However, the program relies on many more dependencies than what is shown here. Please be sure to set up a virtual enviroment and install the [requirements.txt](https://github.com/KidQuant/Meme-Stock-r-WallStreetBets-Portfolio-Analysis/blob/main/requirements.txt) file before running this programming on your own.
 
-We will also be using functions and methods available from different projects, using the ![MPT Functions](https://github.com/KidQuant/Meme-Stock-r-WallStreetBets-Portfolio-Analysis/blob/main/MPT_Functions.ipynb)
+We will also be using functions and methods available from different projects, using the [MPT Functions](https://github.com/KidQuant/Meme-Stock-r-WallStreetBets-Portfolio-Analysis/blob/main/MPT_Functions.ipynb)
 
 1. Numpy
 2. Pandas
