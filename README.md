@@ -27,3 +27,9 @@ We will also be using functions and methods available from different projects, u
 6. Pandas_datareader
 7. Functools
 8. Tabulate
+
+## Other Related Finance Project
+
+1. [Pairs Trading With Python](https://github.com/KidQuant/Pairs-Trading-With-Python)
+2. [Modeling Vanilla Interest Rate Swap](https://github.com/KidQuant/Modeling-Vanilla-Interest-Rate-Swaps)
+3. [401K Optimization Using Modern Portfolio Theory](https://github.com/KidQuant/401K-Optimization-Using-Modern-Portfolio-Theory)
