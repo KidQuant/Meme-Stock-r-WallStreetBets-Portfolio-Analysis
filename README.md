@@ -8,3 +8,22 @@ In this project, we will use a combination of descriptive statistics with financ
 3. Import the financial data of the assets in our portfolio while using the data to construct important financial statistics (returns, volatility, etc.)
 4. Using descriptive statistics to find alpha, beta, covariance, sharpe ratio, and the correlation matrix
 5. Use an algorithm to generate the optimal portfolio for our asset class
+
+## Data
+
+The data for this project primary originates from Yahoo Finance, which provides historical financial data for free.
+
+## Enviroment and Tools
+
+The following are the modules we will use in this notebook. However, the program relies on many more dependencies than what is shown here. Please be sure to set up a virtual enviroment and install the ![requirements.txt](https://github.com/KidQuant/Meme-Stock-r-WallStreetBets-Portfolio-Analysis/blob/main/requirements.txt) file before running this programming on your own.
+
+We will also be using functions and methods available from different projects, using the ![MPT Functions](https://github.com/KidQuant/Meme-Stock-r-WallStreetBets-Portfolio-Analysis/blob/main/MPT_Functions.ipynb)
+
+1. Numpy
+2. Pandas
+3. Datetime
+4. Matplotlib
+5. Seaborn
+6. Pandas_datareader
+7. Functools
+8. Tabulate
