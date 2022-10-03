@@ -1,6 +1,8 @@
 # Meme Stocks & r/WallStreetBets Portfolio Analysis
 In this project, we will use a combination of descriptive statistics with financial theory (along with a little bit of mathematics) to determine whether the r/WallStreetBets subreddit can generate profitable investment strategies.
 
+![meme-stocks](https://user-images.githubusercontent.com/38800128/193704185-c01df94b-a51c-4340-bf45-9ba0809e48ab.jpg)
+
 ## Goal
 
 1. Scrape through the post of the r/WallStreetBets subreddit and classify the most discussed stocks/assets on the platform (completed in another project)
